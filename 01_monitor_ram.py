@@ -16,4 +16,4 @@ while True:
     print(f"Livre: {livre:.2f} GB")
     print(f"Percentual usado: {memoria.percent}%")
 
-    time.sleep(2)
+    time.sleep(2) 
